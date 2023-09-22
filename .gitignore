@@ -67,5 +67,5 @@ Desktop.ini
 
 
 # Visual Studio build folders
-bin/
-obj/
+**/bin/
+**/obj/
