@@ -64,3 +64,8 @@ Desktop.ini
 *.suo
 *.user
 .idea/
+
+
+# Visual Studio build folders
+bin/
+obj/
