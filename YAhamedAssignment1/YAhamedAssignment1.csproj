@@ -54,6 +54,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Resources\Images\Cross.jpg" />
+    <EmbeddedResource Include="Resources\Images\Ring.jpg" />
     <EmbeddedResource Include="YAhamedForm.resx">
       <DependentUpon>YAhamedForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -79,13 +81,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\Images\Cross.jpg" />
-    <EmbeddedResource Include="Resources\Images\Ring.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Resources\Images\Bg.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

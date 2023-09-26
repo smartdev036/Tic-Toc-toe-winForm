@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Windows.Forms;
 
 namespace YAhamedAssignment1
@@ -32,9 +33,11 @@ namespace YAhamedAssignment1
             foreach (PictureBox pictureBox in pictureBoxes)
             {
                 pictureBox.Click += PictureBox_Click;
-            }
 
-            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+                // Create a Panel control to act as the border
+                Panel borderPanel = new Panel();
+                borderPanel.BorderStyle = BorderStyle.FixedSingle;
+            }
         }
 
         private void InitializeGame()
@@ -51,7 +54,7 @@ namespace YAhamedAssignment1
 
             foreach (PictureBox pictureBox in pictureBoxes)
             {
-                pictureBox.Image = Properties.Resources.Bg;
+                pictureBox.Image = null;
                 pictureBox.Enabled = true;
             }
         }

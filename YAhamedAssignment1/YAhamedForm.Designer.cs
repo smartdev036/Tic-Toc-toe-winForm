@@ -50,9 +50,9 @@
             // 
             // pictureBox22
             // 
-            this.pictureBox22.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox22.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox22.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox22.Location = new System.Drawing.Point(182, 176);
+            this.pictureBox22.Location = new System.Drawing.Point(241, 200);
             this.pictureBox22.Name = "pictureBox22";
             this.pictureBox22.Size = new System.Drawing.Size(79, 76);
             this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -61,9 +61,9 @@
             // 
             // pictureBox12
             // 
-            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox12.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox12.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox12.Location = new System.Drawing.Point(182, 94);
+            this.pictureBox12.Location = new System.Drawing.Point(241, 118);
             this.pictureBox12.Name = "pictureBox12";
             this.pictureBox12.Size = new System.Drawing.Size(79, 76);
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -72,9 +72,9 @@
             // 
             // pictureBox02
             // 
-            this.pictureBox02.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox02.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox02.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox02.Location = new System.Drawing.Point(182, 12);
+            this.pictureBox02.Location = new System.Drawing.Point(241, 36);
             this.pictureBox02.Name = "pictureBox02";
             this.pictureBox02.Size = new System.Drawing.Size(79, 76);
             this.pictureBox02.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -83,9 +83,9 @@
             // 
             // pictureBox21
             // 
-            this.pictureBox21.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox21.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox21.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox21.Location = new System.Drawing.Point(97, 176);
+            this.pictureBox21.Location = new System.Drawing.Point(156, 200);
             this.pictureBox21.Name = "pictureBox21";
             this.pictureBox21.Size = new System.Drawing.Size(79, 76);
             this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -94,9 +94,9 @@
             // 
             // pictureBox20
             // 
-            this.pictureBox20.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox20.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox20.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox20.Location = new System.Drawing.Point(12, 176);
+            this.pictureBox20.Location = new System.Drawing.Point(71, 200);
             this.pictureBox20.Name = "pictureBox20";
             this.pictureBox20.Size = new System.Drawing.Size(79, 76);
             this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -105,9 +105,9 @@
             // 
             // pictureBox11
             // 
-            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox11.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox11.Location = new System.Drawing.Point(97, 94);
+            this.pictureBox11.Location = new System.Drawing.Point(156, 118);
             this.pictureBox11.Name = "pictureBox11";
             this.pictureBox11.Size = new System.Drawing.Size(79, 76);
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -116,9 +116,9 @@
             // 
             // pictureBox10
             // 
-            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox10.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox10.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox10.Location = new System.Drawing.Point(12, 94);
+            this.pictureBox10.Location = new System.Drawing.Point(71, 118);
             this.pictureBox10.Name = "pictureBox10";
             this.pictureBox10.Size = new System.Drawing.Size(79, 76);
             this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -127,9 +127,9 @@
             // 
             // pictureBox01
             // 
-            this.pictureBox01.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox01.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox01.Location = new System.Drawing.Point(97, 12);
+            this.pictureBox01.Location = new System.Drawing.Point(156, 36);
             this.pictureBox01.Name = "pictureBox01";
             this.pictureBox01.Size = new System.Drawing.Size(79, 76);
             this.pictureBox01.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -138,9 +138,9 @@
             // 
             // pictureBox00
             // 
-            this.pictureBox00.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pictureBox00.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox00.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.pictureBox00.Location = new System.Drawing.Point(12, 12);
+            this.pictureBox00.Location = new System.Drawing.Point(71, 36);
             this.pictureBox00.Name = "pictureBox00";
             this.pictureBox00.Size = new System.Drawing.Size(79, 76);
             this.pictureBox00.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -151,7 +151,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(272, 265);
+            this.ClientSize = new System.Drawing.Size(395, 332);
             this.Controls.Add(this.pictureBox22);
             this.Controls.Add(this.pictureBox12);
             this.Controls.Add(this.pictureBox02);
